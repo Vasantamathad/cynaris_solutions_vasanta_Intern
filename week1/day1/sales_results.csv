@@ -1,0 +1,6 @@
+
+sale_id,customer,city,product,amount,status
+1,Rahul,Bangalore,Laptop,55000,Completed
+4,Sneha,Pune,Laptop,60000,Completed
+8,Arun,Dharwad,Laptop,45000,Completed
+10,Suresh,Hubli,Mobile,22000,Completed
