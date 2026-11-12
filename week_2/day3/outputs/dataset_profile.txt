@@ -1,0 +1,56 @@
+WEEK 2 - DAY 3: DATASET PROFILE
+==================================================
+
+Total Rows: 10800
+Total Columns: 21
+
+COLUMN NAMES:
+['Row ID', 'Order ID', 'Order Date', 'Ship Date', 'Ship Mode', 'Customer ID', 'Customer Name', 'Segment', 'Country', 'City', 'State', 'Postal Code', 'Region', 'Product ID', 'Category', 'Sub-Category', 'Product Name', 'Sales', 'Quantity', 'Discount', 'Profit']
+
+DATA TYPES:
+Row ID               str
+Order ID             str
+Order Date           str
+Ship Date            str
+Ship Mode            str
+Customer ID          str
+Customer Name        str
+Segment              str
+Country              str
+City                 str
+State                str
+Postal Code      float64
+Region               str
+Product ID           str
+Category             str
+Sub-Category         str
+Product Name         str
+Sales            float64
+Quantity         float64
+Discount         float64
+Profit           float64
+
+MISSING VALUES:
+Row ID             0
+Order ID           0
+Order Date       806
+Ship Date        806
+Ship Mode        806
+Customer ID      806
+Customer Name    806
+Segment          806
+Country          806
+City             806
+State            806
+Postal Code      817
+Region           806
+Product ID       806
+Category         806
+Sub-Category     806
+Product Name     806
+Sales            806
+Quantity         806
+Discount         806
+Profit           806
+
+Total Duplicate Records: 504
