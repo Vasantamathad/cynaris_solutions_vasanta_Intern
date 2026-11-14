@@ -1,0 +1,7 @@
+Dimension,Score,Observation
+Completeness,100.0,0 missing cells
+Accuracy,100.0,0 negative quantity/price values
+Consistency,100.0,0 duplicate rows
+Timeliness,,No date column available; SLA not measurable
+Uniqueness,,No confirmed unique business key
+Validity,,Required fields not available
