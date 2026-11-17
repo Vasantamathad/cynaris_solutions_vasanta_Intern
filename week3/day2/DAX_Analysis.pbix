@@ -1,0 +1,41 @@
+1. DAX Analysis report page
+Component	What to include
+Card 1	Electronics Sales – CALCULATE()
+Card 2	YTD Sales – DATESYTD()
+Table	OrderDate and Running Total
+Card 3	Profit Margin – Percentage
+Text box	Context Transition explanation
+
+2. DAX formulas used
+Electronics Sales:
+Electronics Sales =
+CALCULATE(
+    SUM(sales_data[Sales]),
+    sales_data[Category] = "Electronics"
+)
+
+YTD Sales:
+YTD Sales =
+CALCULATE(
+    [Total Sales],
+    DATESYTD(sales_data[OrderDate])
+)
+
+Running Total calculated column:
+Running Total =
+CALCULATE(
+    SUM(sales_data[Sales]),
+    FILTER(
+        sales_data,
+        sales_data[OrderDate] <=
+        EARLIER(sales_data[OrderDate])
+    )
+)
+
+Profit Margin calculated column:
+Profit Margin Column =
+DIVIDE(
+    sales_data[Profit],
+    sales_data[Sales],
+    0
+)

@@ -1,0 +1,53 @@
+WEEK 2 - DAY 4: DATA QUALITY LOG
+============================================================
+
+DATASET INFORMATION
+----------------------------------------
+Original Rows: 10800
+Original Columns: 21
+Missing Values Before: 15325
+Duplicate Rows Before: 504
+
+CLEANING ACTIONS
+----------------------------------------
+Order Date: 806 missing values handled using Mode Imputation
+Ship Date: 806 missing values handled using Mode Imputation
+Ship Mode: 806 missing values handled using Mode Imputation
+Customer ID: 806 missing values handled using Mode Imputation
+Customer Name: 806 missing values handled using Mode Imputation
+Segment: 806 missing values handled using Mode Imputation
+Country: 806 missing values handled using Mode Imputation
+City: 806 missing values handled using Mode Imputation
+State: 806 missing values handled using Mode Imputation
+Postal Code: 817 missing values handled using Mean Imputation
+Region: 806 missing values handled using Mode Imputation
+Product ID: 806 missing values handled using Mode Imputation
+Category: 806 missing values handled using Mode Imputation
+Sub-Category: 806 missing values handled using Mode Imputation
+Product Name: 806 missing values handled using Mode Imputation
+Sales: 806 missing values handled using Median Imputation
+Quantity: 806 missing values handled using Median Imputation
+Discount: 806 missing values handled using Median Imputation
+Profit: 806 missing values handled using Median Imputation
+Duplicate records found: 504
+Duplicate records removed: 504
+Sales: Detected 1250 outliers; capped using IQR boundaries.
+Quantity: Detected 170 outliers; capped using IQR boundaries.
+Discount: Detected 856 outliers; capped using IQR boundaries.
+Profit: Detected 1966 outliers; capped using IQR boundaries.
+Region: Standardised whitespace and casing.
+Category: Standardised whitespace and casing.
+Sub-Category: Standardised whitespace and casing.
+Segment: Standardised whitespace and casing.
+Ship Mode: Standardised whitespace and casing.
+
+FINAL DATASET INFORMATION
+----------------------------------------
+Final Rows: 10296
+Final Columns: 21
+Remaining Missing Values: 0
+Remaining Duplicates: 0
+
+FINAL VALIDATION
+----------------------------------------
+Dataset saved as superstore_cleaned.csv
