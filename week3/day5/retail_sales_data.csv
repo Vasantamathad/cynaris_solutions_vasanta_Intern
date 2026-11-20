@@ -1,0 +1,12 @@
+
+KPI,Formula,Owner,Frequency,Target,Type
+Total Revenue,Sum of Sales Amount,Sales Manager,Monthly,500000 INR,Lagging
+Sales Growth,(Current Sales - Previous Sales) / Previous Sales * 100,Business Manager,Monthly,10%,Lagging
+Gross Profit Margin,Gross Profit / Revenue * 100,Finance Manager,Monthly,25%,Lagging
+Average Order Value,Revenue / Number of Orders,Sales Analyst,Weekly,1000 INR,Lagging
+Conversion Rate,Orders / Visitors * 100,Marketing Manager,Weekly,3%,Leading
+Customer Retention Rate,Returning Customers / Total Customers * 100,CRM Manager,Monthly,40%,Lagging
+Inventory Turnover,COGS / Average Inventory,Inventory Manager,Monthly,4,Lagging
+Customer Acquisition Cost,Marketing Spend / New Customers,Marketing Manager,Monthly,300 INR,Lagging
+Stock-out Rate,Out of Stock Products / Total Products * 100,Inventory Manager,Daily,5%,Leading
+Cart Abandonment Rate,Abandoned Carts / Total Carts * 100,E-commerce Manager,Weekly,60%,Leading

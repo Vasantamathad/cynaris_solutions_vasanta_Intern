@@ -1,0 +1,20 @@
+WEEK 2 - DAY 3: BUSINESS INSIGHTS
+==================================================
+
+1. Highest Sales Region: West with total sales of 725,457.82.
+
+2. Most Profitable Category: Technology with total profit of 145,454.95.
+
+3. Highest Revenue Category: Technology with sales of 836,154.03.
+
+4. Most Profitable Sub-Category: Copiers with profit of 55,617.82.
+
+5. Discount-Profit Correlation: -0.219. This indicates the direction and strength of their linear relationship, not causation.
+
+
+DATASET SUMMARY
+--------------------------------------------------
+Total Records: 10800
+Total Columns: 21
+Total Sales: 2,297,200.86
+Total Profit: 286,397.02
