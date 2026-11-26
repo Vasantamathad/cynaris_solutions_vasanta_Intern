@@ -1,0 +1,11 @@
+metric_id,metric_name,category,metric_value_num,metric_value_str
+TOTAL_ORDERS,Total Export Orders,Volume,1250,1250 shipments
+REALIZED_REVENUE,Total Realized Revenue,Financial,1724140493.69,INR 172.41 Cr
+GROSS_PROFIT,Total Gross Profit,Financial,494730887.74,INR 49.47 Cr
+GROSS_MARGIN,Overall Gross Profit Margin,Financial,28.69,28.69%
+NET_FX_IMPACT,Net Realized FX Variance,FX Analytics,-1230050.67,"INR -1,230,050.67"
+OTD_RATE,On-Time Delivery Rate,Logistics,33.28,33.28%
+AVG_TRANSIT_DAYS,Average Transit Lead Time,Logistics,22.5,22.5 Days
+COMPLIANCE_RATE,Compliance Exception Rate,Compliance,15.84,15.84%
+CLIENT_COUNT,Total B2B Clients,Demographics,50,50 Clients
+COUNTRY_COUNT,Destination Markets Covered,Demographics,12,12 Countries
