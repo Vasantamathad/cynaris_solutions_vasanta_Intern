@@ -1,0 +1,51 @@
+customer_id,company_name,country,country_code,region,settlement_currency,preferred_port,client_tier,payment_terms,credit_limit_usd,reliability_score_pct,onboarding_date
+CUST-1001,Apex Global Logistics,United States,USA,North America,USD,Port of Los Angeles,Tier 1 - Strategic,Net 30,250000,86.3,2022-12-04
+CUST-1002,Nordic Horizon Imports,United Kingdom,GBR,Europe,GBP,Port of Felixstowe,Tier 1 - Strategic,Letter of Credit (LC),500000,82.6,2021-04-08
+CUST-1003,Zephyr Industrial AG,Germany,DEU,Europe,EUR,Port of Hamburg,Tier 1 - Strategic,Letter of Credit (LC),100000,94.5,2024-04-15
+CUST-1004,Al-Futtaim Supply Chain,United Arab Emirates,ARE,Middle East,AED,Jebel Ali Port,Tier 3 - Mid-Market,Net 30,100000,94.2,2023-05-05
+CUST-1005,Pacific Rim Trade Corp,Singapore,SGP,Asia-Pacific,SGD,Port of Singapore,Tier 2 - Enterprise,Net 60,50000,83.6,2021-06-28
+CUST-1006,Nippon Precision Goods,Japan,JPN,Asia-Pacific,JPY,Port of Yokohama,Tier 3 - Mid-Market,Letter of Credit (LC),250000,96.1,2024-09-04
+CUST-1007,Southern Cross Trading,Australia,AUS,Asia-Pacific,AUD,Port of Melbourne,Tier 4 - Growth,Net 30,1000000,87.1,2023-10-07
+CUST-1008,Vanderbilt & Sons,Netherlands,NLD,Europe,EUR,Port of Rotterdam,Tier 1 - Strategic,Net 30,100000,95.5,2021-04-28
+CUST-1009,Maple Leaf Wholesale,Canada,CAN,North America,CAD,Port of Vancouver,Tier 1 - Strategic,Net 90,250000,89.9,2023-03-12
+CUST-1010,Gallia Commerce SAS,France,FRA,Europe,EUR,Port of Le Havre,Tier 3 - Mid-Market,Net 45,250000,94.3,2021-10-21
+CUST-1011,Desert Sands Enterprise,Saudi Arabia,SAU,Middle East,SAR,King Abdulaziz Port (Dammam),Tier 2 - Enterprise,Letter of Credit (LC),100000,84.9,2024-05-21
+CUST-1012,Safari Gateway Holdings,South Africa,ZAF,Africa,ZAR,Port of Durban,Tier 2 - Enterprise,Advance 50% / Net 30,250000,96.7,2021-04-27
+CUST-1013,TransAtlantic Engineering,United States,USA,North America,USD,Port of Los Angeles,Tier 1 - Strategic,Net 60,500000,86.7,2022-10-23
+CUST-1014,Bavaria Tech Distribution,United Kingdom,GBR,Europe,GBP,Port of Felixstowe,Tier 3 - Mid-Market,Net 45,500000,88.9,2024-03-09
+CUST-1015,Crescent Star Imports,Germany,DEU,Europe,EUR,Port of Hamburg,Tier 2 - Enterprise,Net 45,1000000,91.4,2024-10-13
+CUST-1016,Singapore Straits Ltd,United Arab Emirates,ARE,Middle East,AED,Jebel Ali Port,Tier 3 - Mid-Market,Net 45,100000,90.9,2021-01-28
+CUST-1017,Kyoto Precision Ltd,Singapore,SGP,Asia-Pacific,SGD,Port of Singapore,Tier 1 - Strategic,Net 45,100000,95.9,2024-10-03
+CUST-1018,Aussie Bulk Distributors,Japan,JPN,Asia-Pacific,JPY,Port of Yokohama,Tier 4 - Growth,Net 90,1000000,99.4,2023-09-28
+CUST-1019,Amsterdam Port Traders,Australia,AUS,Asia-Pacific,AUD,Port of Melbourne,Tier 1 - Strategic,Advance 50% / Net 30,50000,93.9,2023-11-11
+CUST-1020,Great Lakes Machinery,Netherlands,NLD,Europe,EUR,Port of Rotterdam,Tier 1 - Strategic,Net 60,500000,84.8,2021-12-24
+CUST-1021,Eiffel Industrial SARL,Canada,CAN,North America,CAD,Port of Vancouver,Tier 3 - Mid-Market,Letter of Credit (LC),100000,90.9,2021-11-10
+CUST-1022,Gulf Horizon Trading,France,FRA,Europe,EUR,Port of Le Havre,Tier 2 - Enterprise,Net 45,250000,95.3,2021-10-11
+CUST-1023,Cape Cross Importers,Saudi Arabia,SAU,Middle East,SAR,King Abdulaziz Port (Dammam),Tier 4 - Growth,Net 30,50000,98.3,2023-04-02
+CUST-1024,Titan Heavy Spares,South Africa,ZAF,Africa,ZAR,Port of Durban,Tier 2 - Enterprise,Letter of Credit (LC),50000,83.5,2024-02-25
+CUST-1025,Helvetia & Rhine BV,United States,USA,North America,USD,Port of Los Angeles,Tier 2 - Enterprise,Net 45,500000,98.6,2022-05-17
+CUST-1026,Emirates Trade Network,United Kingdom,GBR,Europe,GBP,Port of Felixstowe,Tier 4 - Growth,Net 45,1000000,95.2,2022-12-10
+CUST-1027,Sunway Cargo Corp,Germany,DEU,Europe,EUR,Port of Hamburg,Tier 4 - Growth,Advance 50% / Net 30,250000,89.7,2024-02-08
+CUST-1028,Tokyo Global Partners,United Arab Emirates,ARE,Middle East,AED,Jebel Ali Port,Tier 2 - Enterprise,Net 30,250000,82.4,2022-10-08
+CUST-1029,Gold Coast Merchants,Singapore,SGP,Asia-Pacific,SGD,Port of Singapore,Tier 1 - Strategic,Net 30,50000,86.0,2021-06-03
+CUST-1030,Rotterdam Logistics Group,Japan,JPN,Asia-Pacific,JPY,Port of Yokohama,Tier 2 - Enterprise,Net 60,500000,85.7,2022-12-19
+CUST-1031,Ontario Distribution Hub,Australia,AUS,Asia-Pacific,AUD,Port of Melbourne,Tier 4 - Growth,Net 45,500000,96.1,2022-02-04
+CUST-1032,Lyon Precision Tools,Netherlands,NLD,Europe,EUR,Port of Rotterdam,Tier 4 - Growth,Net 60,500000,89.2,2021-11-21
+CUST-1033,Riyadh Commercial Corp,Canada,CAN,North America,CAD,Port of Vancouver,Tier 1 - Strategic,Net 30,500000,94.7,2021-04-07
+CUST-1034,Pretoria Industrial Supplies,France,FRA,Europe,EUR,Port of Le Havre,Tier 2 - Enterprise,Letter of Credit (LC),500000,84.5,2022-05-15
+CUST-1035,Manhattan Procurement Inc,Saudi Arabia,SAU,Middle East,SAR,King Abdulaziz Port (Dammam),Tier 2 - Enterprise,Net 30,500000,96.1,2021-01-21
+CUST-1036,Cologne Auto Works,South Africa,ZAF,Africa,ZAR,Port of Durban,Tier 1 - Strategic,Net 30,100000,84.9,2024-08-07
+CUST-1037,Abu Dhabi Commercial Goods,United States,USA,North America,USD,Port of Los Angeles,Tier 4 - Growth,Net 30,100000,88.6,2024-05-26
+CUST-1038,Marina Bay Global,United Kingdom,GBR,Europe,GBP,Port of Felixstowe,Tier 4 - Growth,Net 60,500000,94.2,2024-03-07
+CUST-1039,Osaka Heavy Industries,Germany,DEU,Europe,EUR,Port of Hamburg,Tier 3 - Mid-Market,Net 45,50000,92.1,2021-12-11
+CUST-1040,Sydney Harbour Logistics,United Arab Emirates,ARE,Middle East,AED,Jebel Ali Port,Tier 1 - Strategic,Net 30,1000000,90.3,2022-01-17
+CUST-1041,Delta Rhine Traders,Singapore,SGP,Asia-Pacific,SGD,Port of Singapore,Tier 1 - Strategic,Net 45,50000,92.4,2022-07-04
+CUST-1042,Vancouver Pacific Logistics,Japan,JPN,Asia-Pacific,JPY,Port of Yokohama,Tier 2 - Enterprise,Letter of Credit (LC),1000000,82.7,2021-07-22
+CUST-1043,Marseille Cargo Ltd,Australia,AUS,Asia-Pacific,AUD,Port of Melbourne,Tier 3 - Mid-Market,Net 60,100000,93.7,2023-04-09
+CUST-1044,Jeddah Industrial Hub,Netherlands,NLD,Europe,EUR,Port of Rotterdam,Tier 4 - Growth,Net 45,250000,90.0,2021-01-15
+CUST-1045,Durban Export-Import SA,Canada,CAN,North America,CAD,Port of Vancouver,Tier 1 - Strategic,Net 30,1000000,85.7,2023-03-12
+CUST-1046,Keystone Components US,France,FRA,Europe,EUR,Port of Le Havre,Tier 1 - Strategic,Net 45,250000,87.0,2024-09-23
+CUST-1047,Berlin Machinery Group,Saudi Arabia,SAU,Middle East,SAR,King Abdulaziz Port (Dammam),Tier 3 - Mid-Market,Letter of Credit (LC),1000000,82.1,2023-11-04
+CUST-1048,Sharjah Trading House,South Africa,ZAF,Africa,ZAR,Port of Durban,Tier 2 - Enterprise,Net 60,50000,97.6,2022-05-10
+CUST-1049,East Asia Freight Logistics,United States,USA,North America,USD,Port of Los Angeles,Tier 2 - Enterprise,Advance 50% / Net 30,250000,85.6,2023-09-16
+CUST-1050,Kangaroo Industrial Solutions,United Kingdom,GBR,Europe,GBP,Port of Felixstowe,Tier 3 - Mid-Market,Net 30,50000,93.1,2023-01-01

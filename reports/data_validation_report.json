@@ -1,0 +1,53 @@
+{
+  "passed": true,
+  "tests_run": 9,
+  "tests_passed": 9,
+  "tests_failed": 0,
+  "details": [
+    {
+      "test_name": "Customer PK Uniqueness",
+      "status": "PASS",
+      "message": "50 records, 50 unique IDs"
+    },
+    {
+      "test_name": "Product PK Uniqueness",
+      "status": "PASS",
+      "message": "25 records, 25 unique IDs"
+    },
+    {
+      "test_name": "Order PK Uniqueness",
+      "status": "PASS",
+      "message": "1250 records, 1250 unique IDs"
+    },
+    {
+      "test_name": "Order -> Customer FK Integrity",
+      "status": "PASS",
+      "message": "0 orphaned customer keys found"
+    },
+    {
+      "test_name": "Order -> Product FK Integrity",
+      "status": "PASS",
+      "message": "0 orphaned product keys found"
+    },
+    {
+      "test_name": "Chronological Sequence Integrity",
+      "status": "PASS",
+      "message": "0 chronological date discrepancies"
+    },
+    {
+      "test_name": "Positive Values & Exchange Rates",
+      "status": "PASS",
+      "message": "0 non-positive values encountered"
+    },
+    {
+      "test_name": "12 Destination Country Whitelist",
+      "status": "PASS",
+      "message": "Unsupported countries: []"
+    },
+    {
+      "test_name": "Settlement Currency Whitelist",
+      "status": "PASS",
+      "message": "Unsupported currencies: []"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+product_id,product_name,category,hs_code,unit_cost_inr,base_price_usd,export_incentive_rate,requires_special_license,unit_weight_kg
+PRD-101,Precision Stainless Steel Flanges,Engineering Goods,73072100,2400.0,38.5,0.03,0,4.2
+PRD-102,High-Torque Electric Motor Assemblies,Engineering Goods,85015210,12500.0,195.0,0.04,0,18.5
+PRD-103,Industrial Ball Bearings (Grade A),Engineering Goods,84821011,850.0,14.2,0.02,0,1.1
+PRD-104,CNC Machined Aluminum Casings,Engineering Goods,76169990,4200.0,68.0,0.03,0,6.4
+PRD-105,Subsea Hydraulic Control Valves,Engineering Goods,84818030,28000.0,440.0,0.05,1,22.0
+PRD-106,Combed Organic Cotton Yarn (Ne 30s),Textiles & Apparel,52052300,310.0,5.2,0.04,0,25.0
+PRD-107,Mercerized Woven Shirting Fabric,Textiles & Apparel,52083200,180.0,3.1,0.05,0,0.3
+PRD-108,Heavy Duty Canvas Tarpaulins,Textiles & Apparel,63061200,1450.0,24.5,0.03,0,5.8
+PRD-109,Knitted Industrial Safety Apparel,Textiles & Apparel,61143020,650.0,11.0,0.04,0,0.6
+PRD-110,Jacquard Home Furnishing Drapes,Textiles & Apparel,63039200,1200.0,20.0,0.05,0,1.8
+PRD-111,Paracetamol API Powder (USP/BP),Pharmaceuticals,29222933,420.0,7.1,0.02,1,25.0
+PRD-112,Ciprofloxacin Hydrochloride Tablets,Pharmaceuticals,30042099,18.0,0.35,0.02,1,0.05
+PRD-113,Omeprazole Delayed-Release Capsules,Pharmaceuticals,30049099,24.0,0.45,0.02,1,0.04
+PRD-114,Sterile Surgical Nitrile Gloves (Pack 100),Pharmaceuticals,40151100,480.0,8.2,0.03,0,0.9
+PRD-115,Disposable Infusion Sets (Grade IV),Pharmaceuticals,90189099,32.0,0.58,0.03,0,0.08
+PRD-116,Traditional Aged 1121 Basmati Rice,Agri & Spices,10063020,95.0,1.65,0.01,0,50.0
+PRD-117,Malabar Tellicherry Garbled Extra Bold Pepper,Agri & Spices,09041130,580.0,9.8,0.02,0,10.0
+PRD-118,Organic Alleppey Turmeric Fingers (Curcumin 5%),Agri & Spices,09103020,140.0,2.4,0.02,0,25.0
+PRD-119,Refined Castor Oil (Commercial Grade),Agri & Spices,15153090,115.0,1.95,0.02,0,200.0
+PRD-120,Cardamom Green Bold (8mm),Agri & Spices,09083110,1850.0,31.0,0.02,0,5.0
+PRD-121,Reactive Blue 21 Textile Dye,Specialty Chemicals,32041680,520.0,8.8,0.03,1,25.0
+PRD-122,Synthetic Iron Oxide Yellow Pigment,Specialty Chemicals,28211020,145.0,2.5,0.03,0,50.0
+PRD-123,Bio-degradable Polymeric Dispersant,Specialty Chemicals,39069090,220.0,3.8,0.03,0,200.0
+PRD-124,Corrosion Inhibitor Additive (Industrial),Specialty Chemicals,38249900,880.0,15.0,0.04,1,50.0
+PRD-125,High Purity Phosphoric Acid 85%,Specialty Chemicals,28092010,75.0,1.3,0.02,1,300.0

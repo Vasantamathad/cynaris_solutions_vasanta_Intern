@@ -1,0 +1,255 @@
+{
+  "summary": {
+    "total_orders": 1250,
+    "total_customers": 50,
+    "total_products": 25,
+    "total_countries": 12,
+    "order_date_range": "2025-01-02 to 2026-02-28",
+    "total_revenue_booked_inr": 1725370544.36,
+    "total_revenue_realized_inr": 1724140493.69,
+    "total_fx_impact_inr": -1230050.67,
+    "total_cogs_inr": 1108784769.0,
+    "total_shipping_cost_inr": 98732390.43,
+    "total_gross_profit_inr": 494730887.74,
+    "gross_margin_pct": 28.69,
+    "on_time_delivery_rate_pct": 38.88,
+    "avg_transit_days": 22.5,
+    "compliance_exception_rate_pct": 15.84,
+    "compliance_flags_count": 198
+  },
+  "country_performance": {
+    "Netherlands": {
+      "orders": 106,
+      "revenue_inr": 156066224.19,
+      "profit_inr": 47347065.04,
+      "margin_pct": 30.34,
+      "fx_impact_inr": 173968.84
+    },
+    "United Kingdom": {
+      "orders": 103,
+      "revenue_inr": 160104571.13,
+      "profit_inr": 46004994.93,
+      "margin_pct": 28.73,
+      "fx_impact_inr": 124811.02
+    },
+    "Saudi Arabia": {
+      "orders": 100,
+      "revenue_inr": 116627016.56,
+      "profit_inr": 33187667.4,
+      "margin_pct": 28.46,
+      "fx_impact_inr": -566349.94
+    },
+    "Japan": {
+      "orders": 109,
+      "revenue_inr": 189225440.12,
+      "profit_inr": 52801619.8,
+      "margin_pct": 27.9,
+      "fx_impact_inr": 69413.88
+    },
+    "Singapore": {
+      "orders": 116,
+      "revenue_inr": 169836440.14,
+      "profit_inr": 49387218.3,
+      "margin_pct": 29.08,
+      "fx_impact_inr": -519560.36
+    },
+    "South Africa": {
+      "orders": 110,
+      "revenue_inr": 158494614.76,
+      "profit_inr": 46550177.66,
+      "margin_pct": 29.37,
+      "fx_impact_inr": 344158.72
+    },
+    "France": {
+      "orders": 98,
+      "revenue_inr": 118164674.52,
+      "profit_inr": 33225729.5,
+      "margin_pct": 28.12,
+      "fx_impact_inr": -799284.28
+    },
+    "United Arab Emirates": {
+      "orders": 99,
+      "revenue_inr": 111172055.25,
+      "profit_inr": 32690820.09,
+      "margin_pct": 29.41,
+      "fx_impact_inr": 336413.4
+    },
+    "Australia": {
+      "orders": 100,
+      "revenue_inr": 162336174.68,
+      "profit_inr": 46530578.81,
+      "margin_pct": 28.66,
+      "fx_impact_inr": 438907.87
+    },
+    "Canada": {
+      "orders": 105,
+      "revenue_inr": 84600015.94,
+      "profit_inr": 24401137.62,
+      "margin_pct": 28.84,
+      "fx_impact_inr": -158701.14
+    },
+    "United States": {
+      "orders": 119,
+      "revenue_inr": 166832909.22,
+      "profit_inr": 46895802.45,
+      "margin_pct": 28.11,
+      "fx_impact_inr": 8380.3
+    },
+    "Germany": {
+      "orders": 85,
+      "revenue_inr": 130680357.18,
+      "profit_inr": 35708076.14,
+      "margin_pct": 27.32,
+      "fx_impact_inr": -682208.98
+    }
+  },
+  "top_5_clients": [
+    {
+      "cid": "CUST-1018",
+      "name": "Aussie Bulk Distributors",
+      "profit_inr": 25738223.58,
+      "rev_inr": 90619121.08,
+      "margin_pct": 28.4
+    },
+    {
+      "cid": "CUST-1048",
+      "name": "Sharjah Trading House",
+      "profit_inr": 23313473.69,
+      "rev_inr": 80255994.5,
+      "margin_pct": 29.05
+    },
+    {
+      "cid": "CUST-1032",
+      "name": "Lyon Precision Tools",
+      "profit_inr": 22770736.59,
+      "rev_inr": 78327661.5,
+      "margin_pct": 29.07
+    },
+    {
+      "cid": "CUST-1029",
+      "name": "Gold Coast Merchants",
+      "profit_inr": 21000846.75,
+      "rev_inr": 71542429.91,
+      "margin_pct": 29.35
+    },
+    {
+      "cid": "CUST-1026",
+      "name": "Emirates Trade Network",
+      "profit_inr": 16568541.68,
+      "rev_inr": 56250111.94,
+      "margin_pct": 29.46
+    }
+  ],
+  "bottom_5_clients": [
+    {
+      "cid": "CUST-1017",
+      "name": "Kyoto Precision Ltd",
+      "profit_inr": 4287905.16,
+      "rev_inr": 14273692.41,
+      "margin_pct": 30.04
+    },
+    {
+      "cid": "CUST-1010",
+      "name": "Gallia Commerce SAS",
+      "profit_inr": 4128726.98,
+      "rev_inr": 15829005.0,
+      "margin_pct": 26.08
+    },
+    {
+      "cid": "CUST-1024",
+      "name": "Titan Heavy Spares",
+      "profit_inr": 4033111.65,
+      "rev_inr": 14081208.91,
+      "margin_pct": 28.64
+    },
+    {
+      "cid": "CUST-1038",
+      "name": "Marina Bay Global",
+      "profit_inr": 3687970.57,
+      "rev_inr": 11910889.29,
+      "margin_pct": 30.96
+    },
+    {
+      "cid": "CUST-1020",
+      "name": "Great Lakes Machinery",
+      "profit_inr": 2673217.91,
+      "rev_inr": 9678962.57,
+      "margin_pct": 27.62
+    }
+  ],
+  "compliance_breakdown": {
+    "None": 1052,
+    "Customs Inspection Hold": 40,
+    "Tariff Rate Query": 30,
+    "Fumigation / Phytosanitary Certificate Delay": 34,
+    "HS Code Discrepancy": 37,
+    "Documentation Incomplete": 32,
+    "Country Sanctions Screening": 25
+  },
+  "shipment_breakdown": {
+    "Delivered Late": 654,
+    "Customs Hold / Delayed": 114,
+    "Delivered On-Time": 416,
+    "In Transit": 66
+  },
+  "missing_values": {
+    "orders": {
+      "order_id": 0,
+      "order_date": 0,
+      "customer_id": 0,
+      "product_id": 0,
+      "order_quantity": 0,
+      "settlement_currency": 0,
+      "unit_price_foreign": 0,
+      "order_value_foreign": 0,
+      "booking_fx_rate": 0,
+      "settlement_fx_rate": 0,
+      "order_value_inr_booked": 0,
+      "order_value_inr_realized": 0,
+      "fx_gain_loss_inr": 0,
+      "shipping_mode": 0,
+      "origin_port": 0,
+      "destination_country": 0,
+      "destination_port": 0,
+      "dispatch_date": 0,
+      "target_delivery_date": 0,
+      "actual_delivery_date": 66,
+      "transit_days": 66,
+      "shipment_status": 0,
+      "compliance_status": 0,
+      "compliance_flag_type": 0,
+      "compliance_delay_days": 0,
+      "cogs_inr": 0,
+      "shipping_cost_inr": 0,
+      "customs_handling_inr": 0,
+      "total_cost_inr": 0,
+      "gross_profit_inr": 0,
+      "profit_margin_pct": 0
+    },
+    "customers": {
+      "customer_id": 0,
+      "company_name": 0,
+      "country": 0,
+      "country_code": 0,
+      "region": 0,
+      "settlement_currency": 0,
+      "preferred_port": 0,
+      "client_tier": 0,
+      "payment_terms": 0,
+      "credit_limit_usd": 0,
+      "reliability_score_pct": 0,
+      "onboarding_date": 0
+    },
+    "products": {
+      "product_id": 0,
+      "product_name": 0,
+      "category": 0,
+      "hs_code": 0,
+      "unit_cost_inr": 0,
+      "base_price_usd": 0,
+      "export_incentive_rate": 0,
+      "requires_special_license": 0,
+      "unit_weight_kg": 0
+    }
+  }
+}

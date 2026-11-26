@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "routes": [
+    {
+      "src": "/checkpoint1",
+      "dest": "/CHECKPOINT_1_STAKEHOLDER_BRIEF_AND_DATA_INVENTORY.html"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}

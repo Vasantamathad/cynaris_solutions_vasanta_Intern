@@ -1,0 +1,265 @@
+{
+  "executive_kpis": {
+    "total_orders": 1250,
+    "total_revenue_booked_inr": 1725370544.36,
+    "total_revenue_realized_inr": 1724140493.69,
+    "net_fx_impact_inr": -1230050.67,
+    "total_gross_profit_inr": 494730887.74,
+    "gross_profit_margin_pct": 28.69,
+    "on_time_delivery_rate_pct": 33.28,
+    "avg_transit_lead_time_days": 22.5,
+    "compliance_exception_rate_pct": 15.84,
+    "total_active_clients": 50,
+    "total_destination_countries": 12
+  },
+  "countries_summary": [
+    {
+      "country": "Japan",
+      "code": "JPN",
+      "region": "Asia-Pacific",
+      "currency": "JPY",
+      "orders": 109,
+      "realized_revenue_inr": 189225440.12,
+      "gross_profit_inr": 52801619.8,
+      "margin_pct": 27.9,
+      "fx_impact_inr": 69413.88,
+      "avg_fx_drift_pct": 0.02
+    },
+    {
+      "country": "Singapore",
+      "code": "SGP",
+      "region": "Asia-Pacific",
+      "currency": "SGD",
+      "orders": 116,
+      "realized_revenue_inr": 169836440.14,
+      "gross_profit_inr": 49387218.3,
+      "margin_pct": 29.08,
+      "fx_impact_inr": -519560.36,
+      "avg_fx_drift_pct": 0.173
+    },
+    {
+      "country": "United States",
+      "code": "USA",
+      "region": "North America",
+      "currency": "USD",
+      "orders": 119,
+      "realized_revenue_inr": 166832909.22,
+      "gross_profit_inr": 46895802.45,
+      "margin_pct": 28.11,
+      "fx_impact_inr": 8380.3,
+      "avg_fx_drift_pct": 0.241
+    },
+    {
+      "country": "Australia",
+      "code": "AUS",
+      "region": "Asia-Pacific",
+      "currency": "AUD",
+      "orders": 100,
+      "realized_revenue_inr": 162336174.68,
+      "gross_profit_inr": 46530578.81,
+      "margin_pct": 28.66,
+      "fx_impact_inr": 438907.87,
+      "avg_fx_drift_pct": 0.001
+    },
+    {
+      "country": "United Kingdom",
+      "code": "GBR",
+      "region": "Europe",
+      "currency": "GBP",
+      "orders": 103,
+      "realized_revenue_inr": 160104571.13,
+      "gross_profit_inr": 46004994.93,
+      "margin_pct": 28.73,
+      "fx_impact_inr": 124811.02,
+      "avg_fx_drift_pct": 0.37
+    },
+    {
+      "country": "South Africa",
+      "code": "ZAF",
+      "region": "Africa",
+      "currency": "ZAR",
+      "orders": 110,
+      "realized_revenue_inr": 158494614.76,
+      "gross_profit_inr": 46550177.66,
+      "margin_pct": 29.37,
+      "fx_impact_inr": 344158.72,
+      "avg_fx_drift_pct": 0.084
+    },
+    {
+      "country": "Netherlands",
+      "code": "NLD",
+      "region": "Europe",
+      "currency": "EUR",
+      "orders": 106,
+      "realized_revenue_inr": 156066224.19,
+      "gross_profit_inr": 47347065.04,
+      "margin_pct": 30.34,
+      "fx_impact_inr": 173968.84,
+      "avg_fx_drift_pct": -0.004
+    },
+    {
+      "country": "Germany",
+      "code": "DEU",
+      "region": "Europe",
+      "currency": "EUR",
+      "orders": 85,
+      "realized_revenue_inr": 130680357.18,
+      "gross_profit_inr": 35708076.14,
+      "margin_pct": 27.32,
+      "fx_impact_inr": -682208.98,
+      "avg_fx_drift_pct": -0.07
+    },
+    {
+      "country": "France",
+      "code": "FRA",
+      "region": "Europe",
+      "currency": "EUR",
+      "orders": 98,
+      "realized_revenue_inr": 118164674.52,
+      "gross_profit_inr": 33225729.5,
+      "margin_pct": 28.12,
+      "fx_impact_inr": -799284.28,
+      "avg_fx_drift_pct": -0.206
+    },
+    {
+      "country": "Saudi Arabia",
+      "code": "SAU",
+      "region": "Middle East",
+      "currency": "SAR",
+      "orders": 100,
+      "realized_revenue_inr": 116627016.56,
+      "gross_profit_inr": 33187667.4,
+      "margin_pct": 28.46,
+      "fx_impact_inr": -566349.94,
+      "avg_fx_drift_pct": -0.176
+    },
+    {
+      "country": "United Arab Emirates",
+      "code": "ARE",
+      "region": "Middle East",
+      "currency": "AED",
+      "orders": 99,
+      "realized_revenue_inr": 111172055.25,
+      "gross_profit_inr": 32690820.09,
+      "margin_pct": 29.41,
+      "fx_impact_inr": 336413.4,
+      "avg_fx_drift_pct": 0.344
+    },
+    {
+      "country": "Canada",
+      "code": "CAN",
+      "region": "North America",
+      "currency": "CAD",
+      "orders": 105,
+      "realized_revenue_inr": 84600015.94,
+      "gross_profit_inr": 24401137.62,
+      "margin_pct": 28.84,
+      "fx_impact_inr": -158701.14,
+      "avg_fx_drift_pct": -0.41
+    }
+  ],
+  "top_5_clients": [
+    {
+      "cid": "CUST-1018",
+      "name": "Aussie Bulk Distributors",
+      "country": "Japan",
+      "tier": "Tier 4 - Growth",
+      "orders": 41,
+      "revenue": 90619121.08,
+      "profit": 25738223.58,
+      "margin": 28.4
+    },
+    {
+      "cid": "CUST-1048",
+      "name": "Sharjah Trading House",
+      "country": "South Africa",
+      "tier": "Tier 2 - Enterprise",
+      "orders": 36,
+      "revenue": 80255994.5,
+      "profit": 23313473.69,
+      "margin": 29.05
+    },
+    {
+      "cid": "CUST-1032",
+      "name": "Lyon Precision Tools",
+      "country": "Netherlands",
+      "tier": "Tier 4 - Growth",
+      "orders": 37,
+      "revenue": 78327661.5,
+      "profit": 22770736.59,
+      "margin": 29.07
+    },
+    {
+      "cid": "CUST-1029",
+      "name": "Gold Coast Merchants",
+      "country": "Singapore",
+      "tier": "Tier 1 - Strategic",
+      "orders": 37,
+      "revenue": 71542429.91,
+      "profit": 21000846.75,
+      "margin": 29.35
+    },
+    {
+      "cid": "CUST-1026",
+      "name": "Emirates Trade Network",
+      "country": "United Kingdom",
+      "tier": "Tier 4 - Growth",
+      "orders": 23,
+      "revenue": 56250111.94,
+      "profit": 16568541.68,
+      "margin": 29.46
+    }
+  ],
+  "bottom_5_clients": [
+    {
+      "cid": "CUST-1020",
+      "name": "Great Lakes Machinery",
+      "country": "Netherlands",
+      "tier": "Tier 1 - Strategic",
+      "orders": 12,
+      "revenue": 9678962.57,
+      "profit": 2673217.91,
+      "margin": 27.62
+    },
+    {
+      "cid": "CUST-1038",
+      "name": "Marina Bay Global",
+      "country": "United Kingdom",
+      "tier": "Tier 4 - Growth",
+      "orders": 16,
+      "revenue": 11910889.29,
+      "profit": 3687970.57,
+      "margin": 30.96
+    },
+    {
+      "cid": "CUST-1024",
+      "name": "Titan Heavy Spares",
+      "country": "South Africa",
+      "tier": "Tier 2 - Enterprise",
+      "orders": 21,
+      "revenue": 14081208.91,
+      "profit": 4033111.65,
+      "margin": 28.64
+    },
+    {
+      "cid": "CUST-1010",
+      "name": "Gallia Commerce SAS",
+      "country": "France",
+      "tier": "Tier 3 - Mid-Market",
+      "orders": 23,
+      "revenue": 15829005.0,
+      "profit": 4128726.98,
+      "margin": 26.08
+    },
+    {
+      "cid": "CUST-1017",
+      "name": "Kyoto Precision Ltd",
+      "country": "Singapore",
+      "tier": "Tier 1 - Strategic",
+      "orders": 23,
+      "revenue": 14273692.41,
+      "profit": 4287905.16,
+      "margin": 30.04
+    }
+  ]
+}
