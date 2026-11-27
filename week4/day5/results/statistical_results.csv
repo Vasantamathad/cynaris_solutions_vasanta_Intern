@@ -1,0 +1,3 @@
+Test,Statistic,P_Value
+Pearson Correlation: Discount vs Profit,-0.21948745637176845,2.7022944361957867e-109
+One-Way ANOVA: Profit Across Categories,54.31102304381536,3.46991834622419e-24
