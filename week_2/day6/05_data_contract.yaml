@@ -1,0 +1,96 @@
+
+dataContractSpecification: 0.9.3
+
+id: sales-data-contract-v1
+
+info:
+  title: Sales Dataset Data Contract
+  description: Data quality agreement for the sales dataset
+  version: 1.0.0
+  owner: Data Engineering Team
+  producer: Data Engineering Team
+  consumer: BI Dashboard Team
+
+servers:
+  production:
+    type: local
+    environment: development
+
+models:
+  sales:
+    description: Sales transaction information
+
+    fields:
+      sale_id:
+        type: string
+        required: true
+        unique: true
+        classification: internal
+
+      customer:
+        type: string
+        required: true
+        classification: confidential
+        pii: true
+        masking: Tokenization
+
+      city:
+        type: string
+        required: true
+        classification: internal
+
+      product:
+        type: string
+        required: true
+        classification: internal
+
+      amount:
+        type: number
+        required: true
+        minimum: 0
+        classification: internal
+
+      status:
+        type: string
+        required: true
+        allowed:
+          - Completed
+          - Pending
+          - Cancelled
+        classification: internal
+
+quality:
+  completeness:
+    required_fields:
+      - sale_id
+      - customer
+      - city
+      - product
+      - amount
+      - status
+
+  uniqueness:
+    fields:
+      - sale_id
+
+  accuracy:
+    amount_minimum: 0
+
+  validity:
+    status_values:
+      - Completed
+      - Pending
+      - Cancelled
+
+freshness:
+  expectation: Data refreshed within 2 hours
+  sla: 2 hours
+
+privacy:
+  classification: Confidential
+  pii_fields:
+    - customer
+  protection:
+    - Tokenize customer identifiers
+    - Restrict access to authorized users
+    - Avoid exposing customer details in dashboards
